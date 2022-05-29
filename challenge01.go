@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Temperature Conversion
+// Celsius Temperature Conversion To Fahrenheit
 type Celsius float32
 type Fahrenheit float32
 
